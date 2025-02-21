@@ -1,6 +1,8 @@
 ForceSubBot/
 ├── main.py          # File utama bot
 ├── database.py      # Pengelolaan database MySQL
-├── config.py       # Konfigurasi bot
+├── config.py       # Konfigurasi bot (contoh, jangan commit dengan kredensial asli)
 ├── requirements.txt # Dependensi yang diperlukan
-└── README.md       # Dokumentasi singkat
+├── .gitignore      # File untuk mengabaikan file sensitif
+├── LICENSE         # File lisensi (contoh: MIT License)
+└── README.md       # Dokumentasi proyek
