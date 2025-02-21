@@ -1,0 +1,6 @@
+ForceSubBot/
+├── main.py          # File utama bot
+├── database.py      # Pengelolaan database MySQL
+├── config.py       # Konfigurasi bot
+├── requirements.txt # Dependensi yang diperlukan
+└── README.md       # Dokumentasi singkat
